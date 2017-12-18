@@ -6,4 +6,4 @@ one of the based way is A*, although the precondition is we have abstract our ma
 but if we view every pixel as a nodes , A* still could be used straightly.
 
 This code will read a image:"maps.png". in this image,  zero gray value represent this pixel is a barrier.
-Our result will be save as a image "informap.png". I have draw the road in it.
+Our result will be save as a image "informap.png". I have drawn the road in it.
