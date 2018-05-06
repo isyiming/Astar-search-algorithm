@@ -7,3 +7,6 @@ but if we view every pixel as a nodes , A* still could be used straightly.
 
 This code will read a image:"maps.png". in this image,  zero gray value represent this pixel is a barrier.
 Our result will be save as a image "informap.png". I have drawn the road in it.
+
+![Alt text](https://github.com/yimingstyle/Astar-search-algorithm/blob/master/informap.png)
+
